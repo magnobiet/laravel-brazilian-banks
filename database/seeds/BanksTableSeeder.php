@@ -118,14 +118,14 @@ class BanksTableSeeder extends Seeder
             [
                 'id'                => 104050,
                 'name'              => 'Banco Alvorada S.A.',
-                'website'           => 'http://Não possui site',
+                'website'           => null,
                 'compensation_code' => 641,
                 'created_at'        => $now,
             ],
             [
                 'id'                => 103950,
                 'name'              => 'Banco Patagon S.A.',
-                'website'           => 'http://Não possui site',
+                'website'           => null,
                 'compensation_code' => 65,
                 'created_at'        => $now,
             ],
@@ -174,14 +174,14 @@ class BanksTableSeeder extends Seeder
             [
                 'id'                => 103948,
                 'name'              => 'Ibibank S.A. - Banco Múltiplo',
-                'website'           => 'http://Não possui site',
+                'website'           => null,
                 'compensation_code' => 63,
                 'created_at'        => $now,
             ],
             [
                 'id'                => 103937,
                 'name'              => 'Banco Bradesco BBI S.A.',
-                'website'           => 'http://Não possui site',
+                'website'           => null,
                 'compensation_code' => 36,
                 'created_at'        => $now,
             ],
@@ -195,14 +195,14 @@ class BanksTableSeeder extends Seeder
             [
                 'id'                => 103963,
                 'name'              => 'Banco Bradesco Cartões S.A.',
-                'website'           => 'http://não tem site',
+                'website'           => null,
                 'compensation_code' => 204,
                 'created_at'        => $now,
             ],
             [
                 'id'                => 104014,
                 'name'              => 'Banco Bradesco Financiamentos S.A.',
-                'website'           => 'http://não tem site',
+                'website'           => null,
                 'compensation_code' => 394,
                 'created_at'        => $now,
             ],
@@ -230,7 +230,7 @@ class BanksTableSeeder extends Seeder
             [
                 'id'                => 104023,
                 'name'              => 'Banco Financial Português S.A.',
-                'website'           => 'http://Não possui site',
+                'website'           => null,
                 'compensation_code' => 473,
                 'created_at'        => $now,
             ],
@@ -531,7 +531,7 @@ class BanksTableSeeder extends Seeder
             [
                 'id'                => 103994,
                 'name'              => 'Banco Induscred S.A.',
-                'website'           => 'http://Não possui site',
+                'website'           => null,
                 'compensation_code' => 258,
                 'created_at'        => $now,
             ],
@@ -566,7 +566,7 @@ class BanksTableSeeder extends Seeder
             [
                 'id'                => 103990,
                 'name'              => 'Banco Investcred S.A.',
-                'website'           => 'http://Não possui site',
+                'website'           => null,
                 'compensation_code' => 249,
                 'created_at'        => $now,
             ],
@@ -874,7 +874,7 @@ class BanksTableSeeder extends Seeder
             [
                 'id'                => 104493,
                 'name'              => 'Casa Bancária do Comércio e Indústria do Rio de Janeiro S.A.',
-                'website'           => 'http://Não possui site',
+                'website'           => null,
                 'compensation_code' => null,
                 'created_at'        => $now,
             ],
@@ -937,7 +937,7 @@ class BanksTableSeeder extends Seeder
             [
                 'id'                => 104082,
                 'name'              => 'Banco Volvo Brasil S.A.',
-                'website'           => 'http://Não possui site',
+                'website'           => null,
                 'compensation_code' => null,
                 'created_at'        => $now,
             ],
@@ -1014,7 +1014,7 @@ class BanksTableSeeder extends Seeder
             [
                 'id'                => 104078,
                 'name'              => 'Banco Merrill Lynch S.A.',
-                'website'           => 'http://Não possui site',
+                'website'           => null,
                 'compensation_code' => 755,
                 'created_at'        => $now,
             ],
@@ -1070,7 +1070,7 @@ class BanksTableSeeder extends Seeder
             [
                 'id'                => 104033,
                 'name'              => 'Banco Uno - E Brasil S.A.',
-                'website'           => 'http://Não possui site',
+                'website'           => null,
                 'compensation_code' => 496,
                 'created_at'        => $now,
             ],
@@ -1259,7 +1259,7 @@ class BanksTableSeeder extends Seeder
             [
                 'id'                => 103967,
                 'name'              => 'Banco Sistema S.A.',
-                'website'           => 'http://Não possui site',
+                'website'           => null,
                 'compensation_code' => 211,
                 'created_at'        => $now,
             ],
@@ -1518,7 +1518,7 @@ class BanksTableSeeder extends Seeder
             [
                 'id'                => 104060,
                 'name'              => 'Finansinos S.A. - Crédito, Financ. e Investimento',
-                'website'           => 'http://Não possui site',
+                'website'           => null,
                 'compensation_code' => 725,
                 'created_at'        => $now,
             ],
@@ -1700,7 +1700,7 @@ class BanksTableSeeder extends Seeder
             [
                 'id'                => 104004,
                 'name'              => 'Banco Francês e Brasileiro S.A.',
-                'website'           => 'http://Não possui site',
+                'website'           => null,
                 'compensation_code' => 346,
                 'created_at'        => $now,
             ],
