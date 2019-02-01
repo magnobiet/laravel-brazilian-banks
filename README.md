@@ -9,7 +9,7 @@ Esta base foi criada com informações da [Federação Brasileira de Bancos](htt
 
 ## Links úteis
 
-- Busca Banco http://www.buscabanco.org.br/)
+- Busca Banco (http://www.buscabanco.org.br/)
 - Lista do bancos associados a Febraban (https://portal.febraban.org.br/pagina/3164/12/pt-br/associados)
 
 ## Última atualização de dados
