@@ -19,7 +19,7 @@ class CreateBanksTable extends Migration
             $table->increments('id');
             $table->string('name', 120)->unique();
             $table->string('website')->nullable();
-            $table->integer('compensation_code', 4)->nullable();
+            $table->integer('compensation_code')->nullable();
             $table->timestamps();
             $table->softDeletes();
 
